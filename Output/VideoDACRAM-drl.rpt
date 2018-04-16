@@ -1,0 +1,26 @@
+Drill report for Y:\KiCAD_Projects\VideoDACRAM\VideoDACRAM.kicad_pcb
+Created on 2018-04-15 9:02:20 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'VideoDACRAM.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.25mm  0.010"  (4 holes)
+    T2  0.40mm  0.016"  (4 holes)
+    T3  1.00mm  0.039"  (40 holes)
+    T4  1.70mm  0.067"  (1 hole)
+    T5  2.60mm  0.102"  (3 holes)
+
+    Total plated holes count 52
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

@@ -1,0 +1,14 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J2";"RCJ-014";1;"RCJ-014 ";;;
+2;"C2,C3,C1";"C_0805_2012Metric_Pad1.15x1.50mm_HandSolder";3;"100n";;;
+3;"U1";"TSOP 44 18.8x10.1x0.8";1;"CY7C1049GN30-xxZSXI";;;
+4;"R1";"R_0805_2012Metric_Pad1.15x1.50mm_HandSolder";1;"4k7";;;
+5;"R2";"R_0805_2012Metric_Pad1.15x1.50mm_HandSolder";1;"12k";;;
+6;"J1";"PinHeader_2x20_P2.54mm_Vertical";1;"Conn_01x40";;;
+7;"R3";"R_0805_2012Metric_Pad1.15x1.50mm_HandSolder";1;"1k5";;;
+8;"R4,R5";"R_0805_2012Metric_Pad1.15x1.50mm_HandSolder";2;"680";;;
+9;"R6";"R_0805_2012Metric_Pad1.15x1.50mm_HandSolder";1;"1k";;;
+10;"R7";"R_0805_2012Metric_Pad1.15x1.50mm_HandSolder";1;"NI";;;
+11;"R8";"R_0805_2012Metric_Pad1.15x1.50mm_HandSolder";1;"75";;;
+12;"U2";"SOT-363_SC-70-6_Handsoldering";1;"LMH6601";;;
+13;"REF**";"OSHW-Logo2_7.3x6mm_SilkScreen";1;"OSHW-Logo2_7.3x6mm_SilkScreen";;;
